@@ -1,2 +1,2 @@
 echo "Welcome"
-echo "Made from bash again"
+echo "Made from bash"
